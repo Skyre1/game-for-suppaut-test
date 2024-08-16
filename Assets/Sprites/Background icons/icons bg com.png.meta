@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: a0c3a03ebbf99804a8d3faf68982496b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -785578913930200722
+    second: icons bg com_0
+  - first:
+      213: -7302573480143188929
+    second: icons bg com_1
+  - first:
+      213: 5105244210663079389
+    second: icons bg com_2
+  - first:
+      213: -7925295039238242047
+    second: icons bg com_3
+  - first:
+      213: -3154454170571045588
+    second: icons bg com_4
+  - first:
+      213: -3786626095284653851
+    second: icons bg com_5
+  - first:
+      213: 4263260438234008357
+    second: icons bg com_6
+  - first:
+      213: 8029146428432126039
+    second: icons bg com_7
+  - first:
+      213: -7057784619365288860
+    second: icons bg com_8
+  - first:
+      213: 5759594749318349286
+    second: icons bg com_9
+  - first:
+      213: 3100001119575525047
+    second: icons bg com_10
+  - first:
+      213: 2418139229687650534
+    second: icons bg com_11
+  - first:
+      213: -4879371591311008425
+    second: icons bg com_12
+  - first:
+      213: 841533368397290400
+    second: icons bg com_13
+  - first:
+      213: -7639690348560309207
+    second: icons bg com_14
+  - first:
+      213: -7640880467604369942
+    second: icons bg com_15
+  - first:
+      213: 6431390616005778113
+    second: icons bg com_16
+  - first:
+      213: 1034178075749541703
+    second: icons bg com_17
+  - first:
+      213: -861334724138566747
+    second: icons bg com_18
+  - first:
+      213: 3565438920136550633
+    second: icons bg com_19
+  - first:
+      213: 1872864634839654293
+    second: icons bg com_20
+  - first:
+      213: 6257806468518484522
+    second: icons bg com_21
+  - first:
+      213: 1201588601209989479
+    second: icons bg com_22
+  - first:
+      213: -167733135453581275
+    second: icons bg com_23
+  - first:
+      213: -3403577954148207096
+    second: icons bg com_24
+  - first:
+      213: -8517782877228284630
+    second: icons bg com_25
+  - first:
+      213: 54275845932575174
+    second: icons bg com_26
+  - first:
+      213: 8905787326606740982
+    second: icons bg com_27
+  - first:
+      213: -919002502041016676
+    second: icons bg com_28
+  - first:
+      213: 5559056836375697249
+    second: icons bg com_29
+  - first:
+      213: 794998532317674943
+    second: icons bg com_30
+  - first:
+      213: 2340779678274700192
+    second: icons bg com_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icons bg com_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e693724d3201915f0800000000000000
+      internalID: -785578913930200722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 269
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c80e94c1c08aa90800000000000000
+      internalID: -7302573480143188929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 268
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd31349f8879d640800000000000000
+      internalID: 5105244210663079389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 267
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1010a0ed622b30290800000000000000
+      internalID: -7925295039238242047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 267
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250dd615a02934d0800000000000000
+      internalID: -3154454170571045588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 273
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07555f0a3337bc0800000000000000
+      internalID: -3786626095284653851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 272
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b0ae5e7c42a2b30800000000000000
+      internalID: 4263260438234008357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_7
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 270
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7501b4ce2224d6f60800000000000000
+      internalID: 8029146428432126039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464348d4846bd0e90800000000000000
+      internalID: -7057784619365288860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 176
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1435ba8e03eef40800000000000000
+      internalID: 5759594749318349286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 195
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6cc9ff79a650b20800000000000000
+      internalID: 3100001119575525047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 185
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e818fa41d4fe8120800000000000000
+      internalID: 2418139229687650534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 192
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d56c4c36df84cb0800000000000000
+      internalID: -4879371591311008425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 195
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab55f1d32abdab00800000000000000
+      internalID: 841533368397290400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 204
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9242514da1e5af590800000000000000
+      internalID: -7639690348560309207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 201
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed8835a2b326f590800000000000000
+      internalID: -7640880467604369942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca1ec6b0b3e04950800000000000000
+      internalID: 6431390616005778113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 109
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7476c870b732a5e00800000000000000
+      internalID: 1034178075749541703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 109
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abf207c1aceb04f0800000000000000
+      internalID: -861334724138566747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 106
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8671faecbfa7130800000000000000
+      internalID: 3565438920136550633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 108
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f52086670cdf910800000000000000
+      internalID: 1872864634839654293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 117
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a9f2de3d138d650800000000000000
+      internalID: 6257806468518484522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_22
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 130
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a74d6776eca010800000000000000
+      internalID: 1201588601209989479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_23
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 128
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5201a3c1a971cadf0800000000000000
+      internalID: -167733135453581275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80635a532ef04c0d0800000000000000
+      internalID: -3403577954148207096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 19
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2547e03a91cac980800000000000000
+      internalID: -8517782877228284630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 16
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9e1b42893d0c000800000000000000
+      internalID: 54275845932575174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 44
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd029f7366b79b70800000000000000
+      internalID: 8905787326606740982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_28
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 36
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96662ee71c0f33f0800000000000000
+      internalID: -919002502041016676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_29
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 31
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16751625dbcb52d40800000000000000
+      internalID: 5559056836375697249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_30
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 39
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd70cbf3f6680b00800000000000000
+      internalID: 794998532317674943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons bg com_31
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 64
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3440527be1c7020800000000000000
+      internalID: 2340779678274700192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      icons bg com_19: 3565438920136550633
+      icons bg com_11: 2418139229687650534
+      icons bg com_31: 2340779678274700192
+      icons bg com_10: 3100001119575525047
+      icons bg com_6: 4263260438234008357
+      icons bg com_13: 841533368397290400
+      icons bg com_17: 1034178075749541703
+      icons bg com_29: 5559056836375697249
+      icons bg com_9: 5759594749318349286
+      icons bg com_8: -7057784619365288860
+      icons bg com_27: 8905787326606740982
+      icons bg com_21: 6257806468518484522
+      icons bg com_22: 1201588601209989479
+      icons bg com_14: -7639690348560309207
+      icons bg com_28: -919002502041016676
+      icons bg com_4: -3154454170571045588
+      icons bg com_16: 6431390616005778113
+      icons bg com_15: -7640880467604369942
+      icons bg com_24: -3403577954148207096
+      icons bg com_26: 54275845932575174
+      icons bg com_30: 794998532317674943
+      icons bg com_2: 5105244210663079389
+      icons bg com_5: -3786626095284653851
+      icons bg com_18: -861334724138566747
+      icons bg com_23: -167733135453581275
+      icons bg com_25: -8517782877228284630
+      icons bg com_1: -7302573480143188929
+      icons bg com_7: 8029146428432126039
+      icons bg com_20: 1872864634839654293
+      icons bg com_12: -4879371591311008425
+      icons bg com_3: -7925295039238242047
+      icons bg com_0: -785578913930200722
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

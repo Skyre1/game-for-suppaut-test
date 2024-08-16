@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 391275f9b6b7fb842b06d8ca86102d91
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Poppins
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 013aca9d7fc3d4148b2bd54ef80207d4, type: 3}
+  - {fileID: 12800000, guid: 0161bf42418020f47b2662fe92ec9746, type: 3}
+  - {fileID: 12800000, guid: 98c3a4b6a16813e4c8394c709ef62a7c, type: 3}
+  - {fileID: 12800000, guid: 15011de0e2dd2c741a7b42bfdd13c157, type: 3}
+  - {fileID: 12800000, guid: 48b5891313716e847a070e356fc4cba2, type: 3}
+  - {fileID: 12800000, guid: 13c4b3b8a63b8b740a41231aab3e2b88, type: 3}
+  - {fileID: 12800000, guid: 71f690bf84effdf43b03e305a3ec9b08, type: 3}
+  - {fileID: 12800000, guid: 22882706f52791345ba1a356be4eee0e, type: 3}
+  - {fileID: 12800000, guid: 40a4529a57d63ab4f8c13a9771d5cbd8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

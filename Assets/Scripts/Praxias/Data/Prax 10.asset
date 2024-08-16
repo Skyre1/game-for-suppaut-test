@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69b67ae218edb4645a1ce9e6303b44ce, type: 3}
+  m_Name: Prax 10
+  m_EditorClassIdentifier: 
+  description: Cara de alegria
+  sprite: {fileID: 7242392577120190312, guid: a60f1de528d654145bd574175d2bc76c, type: 3}
